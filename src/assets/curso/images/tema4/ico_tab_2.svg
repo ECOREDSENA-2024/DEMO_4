@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="62" viewBox="0 0 139 62">
+  <g id="Grupo_137721" data-name="Grupo 137721" transform="translate(-876.985 -7919)">
+    <g id="Sustracción_4" data-name="Sustracción 4" transform="translate(877.285 7948.557)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M121.058,0H17.641L0,32H138.7Z" stroke="none"/>
+      <path d="M 19.41234588623047 2.999996185302734 L 5.079437255859375 29.00003433227539 L 133.6203155517578 29.00003433227539 L 119.2862701416016 2.999996185302734 L 19.41234588623047 2.999996185302734 M 17.6405029296875 -3.814697265625e-06 L 121.0576019287109 -3.814697265625e-06 L 121.0571441650391 -3.814697265625e-06 L 121.0580596923828 -3.814697265625e-06 L 138.6999664306641 32.00003433227539 L 0 32.00003433227539 L 17.6405029296875 -3.814697265625e-06 Z" stroke="none" fill="#623e2a"/>
+    </g>
+    <g id="Sustracción_6" data-name="Sustracción 6" transform="translate(876.985 7919)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M121.32,31H17.679L0,0H139Z" stroke="none"/>
+      <path d="M 119.5773162841797 28 L 133.8354339599609 3 L 5.164387226104736 3 L 19.42138671875 28 L 119.5773162841797 28 M 121.319938659668 31 L 121.3190231323242 31 L 121.3194808959961 31 L 17.67868041992188 31 L 0 -1.77635683940025e-15 L 139 -1.77635683940025e-15 L 121.319938659668 31 Z" stroke="none" fill="#623e2a"/>
+    </g>
+    <g id="Rectángulo_45021" data-name="Rectángulo 45021" transform="translate(876.985 7919)" fill="none" stroke="#623e2a" stroke-width="3">
+      <rect width="139" height="62" stroke="none"/>
+      <rect x="1.5" y="1.5" width="136" height="59" fill="none"/>
+    </g>
+  </g>
+</svg>

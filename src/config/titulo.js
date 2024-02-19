@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Caracterización de componentes biofísicos y socioculturales de la finca cafetera'
